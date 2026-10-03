@@ -12,6 +12,7 @@ import (
 	"time"
 )
 
+// 
 type BenchmarkConfig struct {
 	Address        string
 	Clients        int
